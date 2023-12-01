@@ -2,7 +2,7 @@
 Geospatial road extraction from satellite images
 
 <h1 align="centre">
-   <img src="https://i.imgur.com/ycFUTNy.png">
+   <img src="https://imgur.com/mlFscXC.png">
 </h1>
 
 # Table of Contents
